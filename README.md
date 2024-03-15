@@ -4,10 +4,9 @@ An automatic cheque clearance system based on signature verification
 Cheque detection execution:
 
 Verification :
+https://github.com/userr1517/cheque-signaturedetection/assets/163510262/1885e60b-0176-4cd7-93d0-a72115a7c9c3
 
-https://github.com/userr1517/cheque-signaturedetection/assets/163510262/af780bbb-ba76-43fd-ae78-4f1bd87d40dd
+Detection :
+https://github.com/userr1517/cheque-signaturedetection/assets/163510262/dea2dd63-edaa-48b3-9d41-502f9ad3d8c3
 
-Detection:
-
-https://github.com/userr1517/cheque-signaturedetection/assets/163510262/e54e1e14-03d3-46d2-93ee-fd37fcb5a77b
 
